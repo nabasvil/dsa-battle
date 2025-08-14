@@ -1,0 +1,7 @@
+﻿  dynamic_arrays.cpp
+C:\Users\hsencan\Desktop\dsa-battle\cpp\arrays\dynamic_arrays\dynamic_arrays.cpp(15,29): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+C:\Users\hsencan\Desktop\dsa-battle\cpp\arrays\dynamic_arrays\dynamic_arrays.cpp(15,29): warning C4244:         with
+C:\Users\hsencan\Desktop\dsa-battle\cpp\arrays\dynamic_arrays\dynamic_arrays.cpp(15,29): warning C4244:         [
+C:\Users\hsencan\Desktop\dsa-battle\cpp\arrays\dynamic_arrays\dynamic_arrays.cpp(15,29): warning C4244:             _Ty=int
+C:\Users\hsencan\Desktop\dsa-battle\cpp\arrays\dynamic_arrays\dynamic_arrays.cpp(15,29): warning C4244:         ]
+  dynamic_arrays.vcxproj -> C:\Users\hsencan\Desktop\dsa-battle\cpp\arrays\dynamic_arrays\x64\Debug\dynamic_arrays.exe
