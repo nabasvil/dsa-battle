@@ -1,0 +1,15 @@
+# Visual Studio'nun geçici klasörünü görmezden gel
+.vs/
+
+# Bazý Visual Studio dosyalarýný görmezden gel
+*.user
+*.suo
+*.pdb
+*.obj
+
+# Python dosyalarýný görmezden gel
+__pycache__/
+
+# Derlenmiþ C++ dosyalarýný görmezden gel
+*.exe
+*.dll
